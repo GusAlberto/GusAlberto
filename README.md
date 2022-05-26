@@ -1,6 +1,6 @@
 <img src="front.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Front-End">
 
- ## Olá, Sou Gustavo Alberto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=micheldslive" alt="scillapinheiro" />
+ ## Olá, Sou Gustavo Alberto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=gusalberto" alt="scillapinheiro" />
 
 - 🔭 Atualmente estudando Informática para Internet (Desenvolvimento Web).
 - 🌱 Trabalhando [LOADING]...
@@ -18,23 +18,13 @@
 ![Docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![MongoDB](https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=MongoDB&logoColor=339933)
 
-##
-### 📊 Estatisticas:
-  
-<div>
-  <a href="https://github.com/gusalberto">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=micheldslive&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micheldslive&layout=compact&langs_count=16&theme=dracula"/>
-</div>
- 
- ##
 
 <div style="display: inline_block"><br> 
-  <a href="https://mi-code.vercel.app/" target="_blank">
+  <a href="https://www.gustavoalberto.com" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-1C1C1C?style=for-the-badge&logo=appveyor&logoColor=00FFFF&link=https://www.linkedin.com/in/micheldslive"/></a> 
-  <a href="https://www.linkedin.com/in/micheldslive" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/gustavo-alberto" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/gustavo-alberto"/></a> 
-  <a href="https://www.instagram.com/micheldslive/" alt="Instagram">
+  <a href="https://www.instagram.com/gustavopidous/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/micheldslive"/></a>
   <a href = "mailto:gustavoasouzasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=+5531983508338" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
