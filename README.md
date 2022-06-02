@@ -1,6 +1,6 @@
 <img src="front.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Front-End">
 
- ## Olá, Sou Gustavo Alberto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> <img src="https://komarev.com/ghpvc/?username=gusalberto" alt="scillapinheiro" />
+ ## Olá, Sou Gustavo Alberto <img src="https://komarev.com/ghpvc/?username=gusalberto" alt="scillapinheiro" />
 
 - 🔭 Atualmente estudando Informática para Internet (Desenvolvimento Web).
 - 🌱 Trabalhando [LOADING]...
