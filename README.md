@@ -24,11 +24,11 @@
 
 <div style="display: inline_block"><br> 
   <a href="https://www.gustavoalberto.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-1C1C1C?style=for-the-badge&logo=appveyor&logoColor=00FFFF&link="/></a> 
+  <img src="https://img.shields.io/badge/-Portfolio-1C1C1C?style=for-the-badge&logo=appveyor&logoColor=00FFFF&"/></a> 
   <a href="https://www.linkedin.com/in/gustavo-alberto" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://br.linkedin.com/in/gustavo-alberto?trk=public_profile_samename-profile"/></a> 
   <a href="https://www.instagram.com/gustavopidous/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/micheldslive"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link"/></a>
   <a href = "mailto:gustavoasouzasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=+5531983508338" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
