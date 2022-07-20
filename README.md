@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estudando Informática para Internet (Desenvolvimento Web).
 - 🌱 Trabalhando [LOADING]...
-- ☄ Aprendendo JavaScript, Node e MongoDB.
+- ☄ Aprendendo JavaScript, Node e MySQL.
 
 ##
 ### 🚀 Habilidades:
