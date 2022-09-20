@@ -3,8 +3,8 @@
  ## Olá, Sou Gustavo Alberto <img src="https://komarev.com/ghpvc/?username=gusalberto" alt="scillapinheiro" />
 
 - 🔭 Atualmente estudando Informática para Internet (Desenvolvimento Web).
-- 🌱 Trabalhando [LOADING]...
-- ☄ Aprendendo JavaScript, Node e MySQL.
+- 🌱 Trabalhando na For People Softwares como Desenvolvedor Back-End.
+- ☄ Aprendendo JavaScript, PHP e Laravel.
 
 ##
 ### 🚀 Habilidades:
@@ -15,7 +15,7 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![PHP](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=5E7DB0)
-![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E)
+![Laravel](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=laravel&logoColor=F7DF1E)
 ![Docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![MongoDB](https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=MongoDB&logoColor=339933)
 
