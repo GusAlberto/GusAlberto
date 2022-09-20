@@ -3,7 +3,7 @@
  ## Olá, Sou Gustavo Alberto <img src="https://komarev.com/ghpvc/?username=gusalberto" alt="scillapinheiro" />
 
 - 📚 Atualmente estudando Informática para Internet (Desenvolvimento Web).
-- 👨🏽‍💻 Trabalhando na For People Softwares(link como Desenvolvedor Back-End.
+- 👨🏽‍💻 Trabalhando na For People Softwares<a href="https://forpeople.io/" target="_blank"> como Desenvolvedor Back-End.
 - ☄ Aprendendo JavaScript, PHP e Laravel.
 
 ##
