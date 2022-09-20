@@ -2,12 +2,12 @@
 
  ## Olá, Sou Gustavo Alberto <img src="https://komarev.com/ghpvc/?username=gusalberto" alt="scillapinheiro" />
 
-- 🔭 Atualmente estudando Informática para Internet (Desenvolvimento Web).
-- 🌱 Trabalhando na For People Softwares como Desenvolvedor Back-End.
+- 📚 Atualmente estudando Informática para Internet (Desenvolvimento Web).
+- 👨🏽‍💻 Trabalhando na For People Softwares(link como Desenvolvedor Back-End.
 - ☄ Aprendendo JavaScript, PHP e Laravel.
 
 ##
-### 🚀 Habilidades:
+### 🚀💻 Habilidades:
 
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
@@ -23,7 +23,7 @@
 ###
 
 <div style="display: inline_block"><br> 
-  <a href="https://www.gustavoalberto.com" target="_blank">
+  <a href="https://www.gustavoalberto.ga" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-1C1C1C?style=for-the-badge&logo=appveyor&logoColor=00FFFF&"/></a> 
   <a href="https://www.linkedin.com/in/gustavo-alberto" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://br.linkedin.com/in/gustavo-alberto?trk=public_profile_samename-profile"/></a> 
