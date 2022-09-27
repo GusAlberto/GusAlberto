@@ -1,11 +1,11 @@
 
 ## 
 <div style="display:block">
- <h1> Olá, Sou Gustavo Alberto </h1> <img src="https://komarev.com/ghpvc/?username=gusalberto" alt="scillapinheiro" /> </div>
+ <h1> Olá, Sou Gustavo Alberto </h1></div>
 <div>
 <img src="front.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Front-End">
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=gusalberto" alt="scillapinheiro" />
 <div>
 <p> - 📚 Atualmente estudando Informática para Internet (Desenvolvimento Web).</p>
 <p> - 👨🏽‍💻 Trabalhando na <a href="https://forpeople.io/" target="_blank">For People Softwares</a> como Desenvolvedor Back-End. </p>
