@@ -1,15 +1,12 @@
 
-
- ## 
+## 
 <div style="display:block">
  <h1>Olá, Sou Gustavo Alberto</h1> </div>
 <div>
 <img src="front.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Front-End">
 </div>
  
- <img src="https://komarev.com/ghpvc/?username=gusalberto" alt="scillapinheiro" />
-
-
+<img src="https://komarev.com/ghpvc/?username=gusalberto" alt="scillapinheiro" />
 
 <div>
 <p> - 📚 Atualmente estudando Informática para Internet (Desenvolvimento Web).</p>
@@ -33,7 +30,6 @@
 
 ##
 ###
-
 <div style="display: inline_block"><br> 
   <a href="https://www.gustavoalberto.ga" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-1C1C1C?style=for-the-badge&logo=appveyor&logoColor=00FFFF&"/></a> 
