@@ -1,15 +1,14 @@
 
-<div>
-<img src="front.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Front-End">
-</div>
 
  ## 
  <div style="display:block">
  <h1>Olá, Sou Gustavo Alberto</h1> </div>
- 
- <div>
-  <img src="https://komarev.com/ghpvc/?username=gusalberto" alt="scillapinheiro" />
- </div>
+ <img src="https://komarev.com/ghpvc/?username=gusalberto" alt="scillapinheiro" />
+
+<div style="display: flex">
+<img src="front.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Front-End">
+</div>
+
 
 
 - 📚 Atualmente estudando Informática para Internet (Desenvolvimento Web).
