@@ -6,14 +6,14 @@
  <img src="https://komarev.com/ghpvc/?username=gusalberto" alt="scillapinheiro" />
 
 <div>
-<img src="front.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Front-End">
+<img src="front.png" min-width="400px" max-width="400px" width="100%" align="right" alt="Front-End">
 </div>
 
 
 
-<h5> - 📚 Atualmente estudando Informática para Internet (Desenvolvimento Web).</h5>
-<h5> - 👨🏽‍💻 Trabalhando na <a href="https://forpeople.io/" target="_blank">For People Softwares</a> como Desenvolvedor Back-End. </h5>
-<h5> - ☄ Aprendendo JavaScript, PHP e Laravel. </h5>
+<p> - 📚 Atualmente estudando Informática para Internet (Desenvolvimento Web).</p>
+<p> - 👨🏽‍💻 Trabalhando na <a href="https://forpeople.io/" target="_blank">For People Softwares</a> como Desenvolvedor Back-End. </p>
+<p> - ☄ Aprendendo JavaScript, PHP e Laravel. </p>
 
 ##
 ### 🚀💻 Habilidades:
