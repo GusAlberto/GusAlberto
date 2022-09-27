@@ -3,8 +3,10 @@
  ## 
  <div style="display:block">
  <h1>Olá, Sou Gustavo Alberto</h1> </div>
- 
- <img src="https://komarev.com/ghpvc/?username=gusalberto" alt="scillapinheiro" />
+ <div>
+  <img src="https://komarev.com/ghpvc/?username=gusalberto" alt="scillapinheiro" />
+ </div>
+
 
 - 📚 Atualmente estudando Informática para Internet (Desenvolvimento Web).
 - 👨🏽‍💻 Trabalhando na <a href="https://forpeople.io/" target="_blank">For People Softwares</a> como Desenvolvedor Back-End.
