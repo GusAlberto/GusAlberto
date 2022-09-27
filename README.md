@@ -9,11 +9,11 @@
 <img src="front.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Front-End">
 </div>
 
-
-
+<div>
 <p> - 📚 Atualmente estudando Informática para Internet (Desenvolvimento Web).</p>
 <p> - 👨🏽‍💻 Trabalhando na <a href="https://forpeople.io/" target="_blank">For People Softwares</a> como Desenvolvedor Back-End. </p>
 <p> - ☄ Aprendendo JavaScript, PHP e Laravel. </p>
+</div>
 
 ##
 ### 🚀💻 Habilidades:
