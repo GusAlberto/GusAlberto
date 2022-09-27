@@ -11,9 +11,9 @@
 
 
 
-<h3> - 📚 Atualmente estudando Informática para Internet (Desenvolvimento Web).</h3>
-<h3> - 👨🏽‍💻 Trabalhando na <a href="https://forpeople.io/" target="_blank">For People Softwares</a> como Desenvolvedor Back-End. </h3>
-<h3> - ☄ Aprendendo JavaScript, PHP e Laravel. </h3>
+<h5> - 📚 Atualmente estudando Informática para Internet (Desenvolvimento Web).</h5>
+<h5> - 👨🏽‍💻 Trabalhando na <a href="https://forpeople.io/" target="_blank">For People Softwares</a> como Desenvolvedor Back-End. </h5>
+<h5> - ☄ Aprendendo JavaScript, PHP e Laravel. </h5>
 
 ##
 ### 🚀💻 Habilidades:
