@@ -1,8 +1,8 @@
 <img src="front.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Front-End">
 
  ## 
- <div style="display: inline_block">
- <p>Olá, Sou Gustavo Alberto</p> </div>
+ <div style="display:block">
+ <h1>Olá, Sou Gustavo Alberto</h1> </div>
  
  <img src="https://komarev.com/ghpvc/?username=gusalberto" alt="scillapinheiro" />
 
