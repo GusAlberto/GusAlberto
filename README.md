@@ -1,6 +1,10 @@
 <img src="front.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Front-End">
 
- ## <p>Olá, Sou Gustavo Alberto</p> <img src="https://komarev.com/ghpvc/?username=gusalberto" alt="scillapinheiro" />
+ ## 
+ <div style="display: inline_block">
+ <p>Olá, Sou Gustavo Alberto</p> </div>
+ 
+ <img src="https://komarev.com/ghpvc/?username=gusalberto" alt="scillapinheiro" />
 
 - 📚 Atualmente estudando Informática para Internet (Desenvolvimento Web).
 - 👨🏽‍💻 Trabalhando na <a href="https://forpeople.io/" target="_blank">For People Softwares</a> como Desenvolvedor Back-End.
