@@ -5,15 +5,15 @@
  <h1>Olá, Sou Gustavo Alberto</h1> </div>
  <img src="https://komarev.com/ghpvc/?username=gusalberto" alt="scillapinheiro" />
 
-<div style="display: flex">
+<div>
 <img src="front.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Front-End">
 </div>
 
 
 
-- 📚 Atualmente estudando Informática para Internet (Desenvolvimento Web).
-- 👨🏽‍💻 Trabalhando na <a href="https://forpeople.io/" target="_blank">For People Softwares</a> como Desenvolvedor Back-End.
-- ☄ Aprendendo JavaScript, PHP e Laravel.
+<h3> - 📚 Atualmente estudando Informática para Internet (Desenvolvimento Web).</h3>
+<h3> - 👨🏽‍💻 Trabalhando na <a href="https://forpeople.io/" target="_blank">For People Softwares</a> como Desenvolvedor Back-End. </h3>
+<h3> - ☄ Aprendendo JavaScript, PHP e Laravel. </h3>
 
 ##
 ### 🚀💻 Habilidades:
