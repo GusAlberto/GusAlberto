@@ -6,7 +6,7 @@
  <img src="https://komarev.com/ghpvc/?username=gusalberto" alt="scillapinheiro" />
 
 <div>
-<img src="front.png" min-width="400px" max-width="400px" width="100%" align="right" alt="Front-End">
+<img src="front.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Front-End">
 </div>
 
 
