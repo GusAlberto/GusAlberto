@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=gusalberto" alt="scillapinheiro" />
 <div>
 <p> - 📚 Atualmente estudando Informática para Internet (Desenvolvimento Web).</p>
-<p> - 👨🏽‍💻 Trabalhando na <a href="https://forpeople.io/" target="_blank">For People Softwares</a> como Desenvolvedor Back-End. </p>
+<p> - 👨🏽‍💻 Trabalhando em <a href="https://forpeople.io/" target="_blank">For People Softwares</a> como Desenvolvedor Back-End. </p>
 <p> - ☄ Aprendendo JavaScript, PHP e Laravel. </p>
 </div>
 
