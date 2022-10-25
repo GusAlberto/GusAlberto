@@ -21,7 +21,7 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 <br>
-![PHP 8.1](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=5E7DB0)
+![PHP](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=5E7DB0)
 ![Laravel](https://img.shields.io/badge/Laravel-323330?style=for-the-badge&logo=laravel&logoColor=F7DF1E)
 ![Docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![MongoDB](https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=MongoDB&logoColor=339933)
