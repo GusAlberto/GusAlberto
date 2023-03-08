@@ -4,10 +4,13 @@
  <h1> Olá, Sou Gustavo Alberto </h1>
 </div>
 
-<div>
- <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gusalberto/gusalberto/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/>
- </a>
-</div>
+<!--ADICIONANDO DEVCARD -->
+<!--
+     <div>
+      <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gusalberto/gusalberto/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/>
+      </a>
+     </div>
+-->
 
 <div>
  <img src="front.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Front-End">
