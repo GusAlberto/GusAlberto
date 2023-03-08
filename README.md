@@ -1,15 +1,26 @@
 
 ## 
 <div style="display:block">
- <h1> Olá, Sou Gustavo Alberto </h1></div>
-<div>
-<img src="front.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Front-End">
+ <h1> Olá, Sou Gustavo Alberto </h1>
 </div>
-<img src="https://komarev.com/ghpvc/?username=gusalberto" alt="scillapinheiro" />
+
 <div>
-<p> - 📚 Atualmente cursando Desenvolvimento Web.</p>
-<p> - 👨🏽‍💻 Trabalhando em <a href="https://forpeople.io/" target="_blank">For People Softwares</a> como Desenvolvedor Back-End. </p>
-<p> - ☄ Aprendendo PHP 8.1 e Laravel. </p>
+ <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/gusalberto/gusalberto/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/>
+ </a>
+</div>
+
+<div>
+ <img src="front.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Front-End">
+</div>
+
+<div>
+ <img src="https://komarev.com/ghpvc/?username=gusalberto" alt="scillapinheiro" />
+</div>
+
+<div>
+ <p> - 📚 Atualmente cursando Desenvolvimento Web.</p>
+ <p> - 👨🏽‍💻 Trabalhando em <a href="https://forpeople.io/" target="_blank">For People Softwares</a> como Desenvolvedor Back-End. </p>
+ <p> - ☄ Aprendendo PHP 8.1 e Laravel. </p>
 </div>
 
 ##
