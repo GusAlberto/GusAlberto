@@ -21,8 +21,13 @@
 </div>
 
 <div>
- <p> - 📚 Atualmente cursando Desenvolvimento Web.</p>
- <p> - 👨🏽‍💻 Trabalhando em <a href="https://forpeople.io/" target="_blank">For People Softwares</a> como Desenvolvedor Back-End. </p>
+ <p> - 📚 Atualmente cursando Análise e Desenvolvimento de Sistemas.</p>
+  <p> - 👨🏽‍💻 Trabalhando em 
+   <a 
+    href="https://kotengenharia.com.br/" target="_blank">
+     Kot Engenharia
+   </a> como Desenvolvedor Back-End. 
+  </p>
  <p> - ☄ Aprendendo PHP 8.1 e Laravel. </p>
 </div>
 
