@@ -26,9 +26,9 @@
    <a 
     href="https://kotengenharia.com.br/" target="_blank">
      Kot Engenharia
-   </a> como Desenvolvedor Back-End. 
+   </a> como Desenvolvedor Full-Stack. 
   </p>
- <p> - ☄ Aprendendo PHP 8.1 e Laravel. </p>
+ <p> - ☄ Learning and working PHP 8.1 + Laravel. </p>
 </div>
 
 ##
