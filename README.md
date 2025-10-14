@@ -21,14 +21,13 @@
 </div>
 
 <div>
- <p> - 📚 Atualmente cursando Análise e Desenvolvimento de Sistemas.</p>
-  <p> - 👨🏽‍💻 Trabalhando em 
+  <p> - Trabalhando em 
    <a 
-    href="https://kotengenharia.com.br/" target="_blank">
-     Kot Engenharia
+    href="https://www.qualitor.com.br/?gad_source=1&gad_campaignid=20351113908&gbraid=0AAAAAD_JRBNpiuYvXgX00xbCKotlJQbJ3&gclid=Cj0KCQjw6bfHBhDNARIsAIGsqLj6V_r-RoK6WqZcL__bkQmLuR7zRyG9549vuWw99X0PAnBlqN7VPrEaAkONEALw_wcB" target="_blank">
+     Qualitor Software
    </a> como Desenvolvedor Full-Stack. 
   </p>
- <p> - ☄ Learning and working PHP 8.1 + Laravel. </p>
+ <p> - Learning and working PHP 8.1 + Laravel. </p>
 </div>
 
 ##
