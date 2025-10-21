@@ -47,7 +47,7 @@
 ##
 ###
 <div style="display: inline_block"><br> 
-  <a href="https://www.gustavoalberto.ga" target="_blank">
+  <a href="https://gustavoalberto.com.br" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-1C1C1C?style=for-the-badge&logo=appveyor&logoColor=00FFFF&"/></a> 
   <a href="https://www.linkedin.com/in/gustavo-alberto" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://br.linkedin.com/in/gustavo-alberto?trk=public_profile_samename-profile"/></a> 
